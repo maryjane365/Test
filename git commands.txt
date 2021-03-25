@@ -1,0 +1,9 @@
+ls
+cd "пътя до папката в комп."
+git init
+git remote add origin <httplink>
+git remote -v
+git add .
+git commit -m "first commit"
+git push origin master
+
