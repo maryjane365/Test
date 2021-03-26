@@ -5,3 +5,5 @@ get()
 if true {}
 
 else{}
+
+new class
