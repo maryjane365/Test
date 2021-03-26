@@ -1,3 +1,7 @@
 def class Blah
 
 get()
+
+if true {}
+
+else{}
