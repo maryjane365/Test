@@ -7,3 +7,4 @@ if true {}
 else{}
 
 new class
+new new
