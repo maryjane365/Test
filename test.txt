@@ -1,1 +1,3 @@
 My firts git training
+
+git remote origin
